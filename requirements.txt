@@ -3,5 +3,4 @@ transformers
 accelerate
 sentencepiece
 huggingface_hub
-psutil
 ipywidgets
