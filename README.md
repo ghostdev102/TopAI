@@ -3,7 +3,6 @@
 **A collective list of cloud AI APIs with an ongoing free tier.**
 
 
-![TOPAI][ghost.jpeg]
 
 Please star this repo.
 Build AI applications without paying for API usage.
