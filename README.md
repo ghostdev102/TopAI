@@ -1,7 +1,8 @@
 # TOP AI APIs
 
 **A collective list of cloud AI APIs with an ongoing free tier.**
-
+[TOPAI][ghost.jpeg]
+Please star this repo.
 Build AI applications without paying for API usage.
 
 > **Important:** “Free forever” means the provider currently offers a recurring/free tier rather than a one-time promotional credit. Providers can change pricing or discontinue free tiers, so always verify the provider's current pricing page before deploying.
