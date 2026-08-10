@@ -1,4 +1,4 @@
-# Free AI APIs — 150+ Cloud APIs for Developers
+# TOP AI APIs
 
 **A collective list of cloud AI APIs with an ongoing free tier.**
 
